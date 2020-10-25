@@ -7,7 +7,7 @@ namespace MyFirstApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("This is an updated version ; test git commit");
+            Console.WriteLine("This is an updated version ; test git commit v2");
         }
     }
 }
